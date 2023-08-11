@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
                            alt="Waving hand animated gif" 
                            height="45" 
-                           width="45" /> I'm Cenk Senguly</h1>
+                           width="45" /> Welcome to visit my GitHub</h1>
 <h3 align="center">I'm passionate about all kinds of technologies and I'm always looking for more information about this area that is simply wonderful.</h3>
 
 ## 🙋‍♂️ About Me
